@@ -15,10 +15,10 @@ Unity project that retrieves the current weather information and displays to the
 
 ## Additional Learning Resources
 These are links to additional tutorials and documentation you might find helpful in learning Mixed Reality development:
-https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools
-https://www.microsoft.com/en-us/hololens/developers
-https://developer.microsoft.com/en-us/windows/mixed-reality/academy
-https://unity3d.com/learn/tutorials
-https://docs.unity3d.com/ScriptReference/
-https://github.com/Microsoft/MixedRealityToolkit-Unity
-https://library.vuforia.com/articles/Training/Developing-Vuforia-Apps-for-HoloLens
+https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools<br/>
+https://www.microsoft.com/en-us/hololens/developers<br/>
+https://developer.microsoft.com/en-us/windows/mixed-reality/academy<br/>
+https://unity3d.com/learn/tutorials<br/>
+https://docs.unity3d.com/ScriptReference/<br/>
+https://github.com/Microsoft/MixedRealityToolkit-Unity<br/>
+https://library.vuforia.com/articles/Training/Developing-Vuforia-Apps-for-HoloLens<br/>
