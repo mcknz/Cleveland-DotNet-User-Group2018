@@ -12,3 +12,13 @@ Slide deck from the Unraveling Realities session.
 
 ### hololens-web-service
 Unity project that retrieves the current weather information and displays to the user as 3D text. See the readme.md file inside the directory for additional information.
+
+## Additional Learning Resources
+These are links to additional tutorials and documentation you might find helpful in learning Mixed Reality development:
+https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools
+https://www.microsoft.com/en-us/hololens/developers
+https://developer.microsoft.com/en-us/windows/mixed-reality/academy
+https://unity3d.com/learn/tutorials
+https://docs.unity3d.com/ScriptReference/
+https://github.com/Microsoft/MixedRealityToolkit-Unity
+https://library.vuforia.com/articles/Training/Developing-Vuforia-Apps-for-HoloLens
