@@ -1,13 +1,13 @@
-# DogFoodCon2017
-This repo contains supporting material for the Unraveling Realities session presented at Dog Food Conference 2017 on October 6, 2017.
+# Cleveland-DotNet-User-Group2018
+This repo contains supporting material for the Unraveling Realities session presented at the Cleveland C#/VB.Net User Group on May 24, 2018.
 
-## Dog Food Conference 2017
-DogFoodCon is a two day event in Columbus, Ohio, focused on Microsoft tools and technologies including .NET, Azure (Running JAVA, Ruby, Python, Red Hat Linux, and other open source technologies), Business Applications (O365, SharePoint, etc.), Design, Development, Infrastructure, Open Source Integration, Professional Skills, Security, SQL, Windows, and more.
+## Cleveland C#/VB.Net User Group
+The Cleveland C#/VB.Net User Group is a non-profit, volunteer based organization aimed at helping all levels of computer users, ranging from hobbyists to consultants. The objective of the group is to provide a forum for sharing information and networking with those who work with C# and Visual Basic.Net. They invite programming professionals, as well as hobbyists, to join us the 4th week of each month. https://www.meetup.com/Cleveland-C-VB-Net-User-Group/
 
 ## Unraveling Realities: Building HoloLens Apps With Unity & C#
 Confused by realities virtual, augmented, and mixed? As we discuss what these mean, you’ll learn how to build a personal reality for HoloLens. You don’t even need a device to get started — create an experience with Unity 3D, enhance it with C#, and deploy to the HoloLens emulator in Visual Studio.
 
-### UnravelingRealities\_Jeff-McKenzie\_DogFoodCon2017.pdf
+### UnravelingRealities\_Jeff-McKenzie\CLE-dotNET-Group
 Slide deck from the Unraveling Realities session.
 
 ### hololens-web-service
