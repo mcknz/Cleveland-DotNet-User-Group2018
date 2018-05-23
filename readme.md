@@ -7,7 +7,7 @@ The Cleveland C#/VB.Net User Group is a non-profit, volunteer based organization
 ## Unraveling Realities: Building HoloLens Apps With Unity & C#
 Confused by realities virtual, augmented, and mixed? As we discuss what these mean, you’ll learn how to build a personal reality for HoloLens. You don’t even need a device to get started — create an experience with Unity 3D, enhance it with C#, and deploy to the HoloLens emulator in Visual Studio.
 
-### UnravelingRealities\_Jeff-McKenzie\_CLE-dotNET-Group
+### UnravelingRealities\_Jeff-McKenzie\_CLE-dotNET-Group.pptx
 Slide deck from the Unraveling Realities session.
 
 ### hololens-web-service
